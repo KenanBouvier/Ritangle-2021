@@ -1,4 +1,5 @@
-Result:  format: ABC DEF GHI
+# Question 1:  
+## Result format: ABC DEF GHI
 
 	16 number of solutions
 	102 365 467
