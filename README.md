@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 Result:  format: ABC DEF GHI
+=======
+# Question 1:  
+## Result format: ABC DEF GHI
+>>>>>>> 2580b3318a3edebdcfde3dfebe72355c5117128e
 
 	16 number of solutions
 	102 365 467
