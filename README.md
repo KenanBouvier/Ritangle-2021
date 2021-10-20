@@ -1,9 +1,7 @@
-<<<<<<< HEAD
 Result:  format: ABC DEF GHI
 =======
 # Question 1:  
 ## Result format: ABC DEF GHI
->>>>>>> 2580b3318a3edebdcfde3dfebe72355c5117128e
 
 	16 number of solutions
 	102 365 467
@@ -27,3 +25,29 @@ Result:  format: ABC DEF GHI
 	Multiplying them out you get 168.
 	From there you can multiply by the given value, 447.2, where you get 75129.6
 	Taking int of that value you get 75129
+
+# Question 3:  
+## Answer Output:
+
+	Cancel when you've seen enough :)
+	1024375869
+	1024375968
+	1024376859
+	1024376958
+	1024385769
+	1024385967
+	1024386759
+	1024386957
+	1024395768
+	1024395867
+	1024396758
+	1024396857
+	1024573869
+	. . . . . .
+	. . . . . .
+
+	The first solution we get is 1024375869. We can see that there are thousands of solutions.
+	Given that the program is incrementing from the smallest possible number, 1023456789,
+	this means that the first value you get is the smallest.
+	From there you can multipy by the given value, 0.000025, where you get 25,609.396725.
+	Taking int of that value you get 25609
