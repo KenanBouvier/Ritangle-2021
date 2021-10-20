@@ -1,5 +1,3 @@
-Result:  format: ABC DEF GHI
-=======
 # Question 1:  
 ## Result format: ABC DEF GHI
 
