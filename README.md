@@ -1,5 +1,8 @@
-# Question 1:  
-## Result format: ABC DEF GHI
+# Ritangle 2021 
+https://integralmaths.org/ritangle
+
+## Question 1:  
+### Result format: ABC DEF GHI
 
 	16 number of solutions
 	102 365 467
@@ -24,8 +27,8 @@
 	From there you can multiply by the given value, 447.2, where you get 75129.6
 	Taking int of that value you get 75129
 
-# Question 3:  
-## Answer Output:
+## Question 3:  
+### Answer Output:
 
 	Cancel when you've seen enough :)
 	1024375869
