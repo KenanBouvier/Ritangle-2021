@@ -38,7 +38,7 @@ int main() {
 				if (isTrue(a, b, c)) {
 					for (vector<int> p : perms) {
 						if (isTrue(p[0] + 9, p[1] + 9, p[2] + 9)) {
-							if (a < b && b < c && b - a >= 16 & c - b >= 16) {
+							if (a < b && b < c && b - a >= 16 && c - b >= 16) {
 								cout << a << " " << b << " " << c << " are the original ages\n";
 							}
 						}
