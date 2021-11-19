@@ -27,6 +27,19 @@ https://integralmaths.org/ritangle
 	From there you can multiply by the given value, 447.2, where you get 75129.6
 	Taking int of that value you get 75129
 
+## Question 2:  
+### Answer Output:
+
+	1 25 55 are the original ages
+	6 25 55 are the original ages
+	
+	Conditions you can use to identify the types of numbers:
+	Fibonacci number: true if 5 * fib^2 +/- 4 is a perfect square.
+	Triangle number: true if 8 * triangle + 1 is a perfect square.
+	There seems to be two possible ages where the differences in ages are possible.
+	Taking the smallest combination, multiplying by given value, 13254.1 and take the int.
+
+
 ## Question 3:  
 ### Answer Output:
 
@@ -52,3 +65,23 @@ https://integralmaths.org/ritangle
 	this means that the first value you get is the smallest.
 	From there you can multipy by the given value, 0.000025, where you get 25,609.396725.
 	Taking int of that value you get 25609
+
+## Question 8:
+### Answer Output:
+
+	0.152152 is min gap   with n value: 15
+	
+	We first need to generalise an equation to get the perpendicular distance from the center of a n-sided polygon.
+	Firstly, we know that 180(n-2)/n is the internal angle of a n-sided polygon. 
+	So now if we split that angle in 2 that angle will now go to the center.
+	As the total perimeter is P, each side is p/n where n is the number of sides.
+	Halving that side we get a right angled triangle. From here we just do some trig:
+	D = tan(180(n-2)/n*2) * p/2n
+	Where D is the distance from center to polygon side (perp).
+	Now if we do the same with the new perimeter Q. We get a second distance.
+	Getting the difference now is the Gap length. 
+	So we can iterate through all n values and apply the formula and get max gap.
+	We can just let p = 1 for simplicity as it needs a value. Therefore Q = 1 + (1 - n/1000)^2
+	
+	Finally multiply by the given value 4541.62 to get 68124.3 and taking int: 68124
+	
