@@ -59,7 +59,7 @@ https://integralmaths.org/ritangle
 	. . . . . .
 	. . . . . .
 
-	The first solution we get is 1024375869. We can see that there are thousands of solutions.
+	The first solution we get is 1024375869.
 	Given that the program is incrementing from the smallest possible number, 1023456789,
 	this means that the first value you get is the smallest.
 	From there you can multipy by the given value, 0.000025, where you get 25,609.396725.
@@ -83,4 +83,14 @@ https://integralmaths.org/ritangle
 	We can just let p = 1 for simplicity as it needs a value. Therefore Q = 1 + (1 - n/1000)^2
 	
 	Finally multiply by the given value 4541.62 to get 68124.3 and taking int: 68124
+
+## Question 13:
+### Result format: Lhs Rhs
+### a b c d e fg h i j
 	
+	322560 322560
+	2 3 6 7 8 10 4 5 9
+	
+	Take the value x, multiply by the given value 0.22 to get 70963.2 and taking int: 70963
+	
+
