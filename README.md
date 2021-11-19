@@ -43,7 +43,6 @@ https://integralmaths.org/ritangle
 ## Question 3:  
 ### Answer Output:
 
-	Cancel when you've seen enough :)
 	1024375869
 	1024375968
 	1024376859
