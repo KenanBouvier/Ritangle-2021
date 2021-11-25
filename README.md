@@ -93,4 +93,11 @@ https://integralmaths.org/ritangle
 	
 	Take the value x, multiply by the given value 0.22 to get 70963.2 and taking int: 70963
 	
+## Question 17:
+### Answer Output
+	
+	17 is the value of n. With average 1533
+	
+	Take 17, multiply by the given value 4124.7 to get 70119.9 and taking int: 70119
+	
 
