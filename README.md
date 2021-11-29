@@ -1,7 +1,7 @@
 # Ritangle 2021 
 https://integralmaths.org/ritangle
 
-## Question 1:  
+## Question 1: [🔗](https://github.com/KenanBouvier/Ritangle-2021/blob/main/Stage-1/question_1.cpp)
 ### Result format: ABC DEF GHI
 
 	16 number of solutions
@@ -27,7 +27,7 @@ https://integralmaths.org/ritangle
 	From there you can multiply by the given value, 447.2, where you get 75129.6
 	Taking int of that value you get 75129
 
-## Question 2:  
+## Question 2: [🔗](https://github.com/KenanBouvier/Ritangle-2021/blob/main/Stage-1/question_2.cpp)
 ### Answer Output:
 
 	1 25 55 are the original ages
@@ -40,7 +40,7 @@ https://integralmaths.org/ritangle
 	Taking the smallest combination, multiplying by given value, 13254.1 and take the int.
 
 
-## Question 3:  
+## Question 3: [🔗](https://github.com/KenanBouvier/Ritangle-2021/blob/main/Stage-1/question_3.cpp)
 ### Answer Output:
 
 	1024375869
@@ -65,7 +65,7 @@ https://integralmaths.org/ritangle
 	From there you can multipy by the given value, 0.000025, where you get 25,609.396725.
 	Taking int of that value you get 25609
 
-## Question 8:
+## Question 8: [🔗](https://github.com/KenanBouvier/Ritangle-2021/blob/main/Stage-1/question_8.cpp)
 ### Answer Output:
 
 	0.152152 is min gap   with n value: 15
@@ -84,7 +84,7 @@ https://integralmaths.org/ritangle
 	
 	Finally multiply by the given value 4541.62 to get 68124.3 and taking int: 68124
 
-## Question 13:
+## Question 13: [🔗](https://github.com/KenanBouvier/Ritangle-2021/blob/main/Stage-1/question_13.cpp)
 ### Result format: Lhs Rhs
 ### a b c d e fg h i j
 	
@@ -93,14 +93,14 @@ https://integralmaths.org/ritangle
 	
 	Take the value x, multiply by the given value 0.22 to get 70963.2 and taking int: 70963
 	
-## Question 17:
+## Question 17: [🔗](https://github.com/KenanBouvier/Ritangle-2021/blob/main/Stage-1/question_17.cpp)
 ### Answer Output
 	
 	17 is the value of n. With average 1533
 	
 	Take 17, multiply by the given value 4124.7 to get 70119.9 and taking int: 70119
 	
-## Question 19:  
+## Question 19: [🔗](https://github.com/KenanBouvier/Ritangle-2021/blob/main/Stage-1/question_19.cpp)
 ### Answer Output:
 
 	1104 four-digit numbers satisfy
