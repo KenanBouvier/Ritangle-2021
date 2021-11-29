@@ -100,4 +100,13 @@ https://integralmaths.org/ritangle
 	
 	Take 17, multiply by the given value 4124.7 to get 70119.9 and taking int: 70119
 	
+## Question 19:  
+### Answer Output:
 
+	1104 four-digit numbers satisfy
+	
+	A faster solution to checking the sums instead of doing 4 choose 2:
+	Sorted array arr: arr[0]+arr[3] == arr[1]+arr[2]
+	This is because any other combination will never be possible to have the same sum.
+	Taking 1104, multiplying by 26.3 and taking int we get 29035.
+	
