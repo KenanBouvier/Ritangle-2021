@@ -6,7 +6,7 @@ int main() {
 	for (int i = 1000; i <= 9999; ++i) {
 		bool brk = false;
 		string s = to_string(i);
-		map<char, int> m;
+		unordered_map<char, int> m;
 		for (char c : s) {
 			m[c]++;
 			if (m[c] > 1) {
@@ -22,7 +22,6 @@ int main() {
 		sort(v.begin(), v.end());
 		if (v[0] + v[3] == v[1] + v[2]) {
 			ans++;
-			// cout << s << "\n";
 		}
 	}
 	cout << ans << " four-digit numbers satisfy";
