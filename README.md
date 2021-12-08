@@ -110,3 +110,20 @@ https://integralmaths.org/ritangle
 	This is because any other combination will never be possible to have the same sum.
 	Taking 1104, multiplying by 26.3 and taking int we get 29035.
 	
+## Question 29: [🔗](https://github.com/KenanBouvier/Ritangle-2021/blob/main/Stage-2/question_29.cpp)
+### Answer Output:
+
+	val of x is: 421
+	val of y is: 2001
+	
+	Summing these values we get 2422, multiplying by 6.7 and taking int we get 16227.
+
+## Question 32: [🔗](https://github.com/KenanBouvier/Ritangle-2021/blob/main/Stage-2/question_32.cpp)
+### Result format: x[i]:y[i]
+### Answer Output:
+
+	1:1 3:9 5:21 7:15 11:19 17:23 25:25
+	31515
+	
+	Putting these pairs into a string, str, we have 1139521715111917232525.
+	Now we can take the positions: s[2],s[6],s[9],s[12],s[19] to get 31515.
